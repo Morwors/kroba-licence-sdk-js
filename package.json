@@ -1,0 +1,16 @@
+{
+  "name": "kroba-licence-sdk",
+  "version": "0.1",
+  "description": "SDK used for activating KrobaLicences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Krobacorp",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "hwid": "^0.2.1"
+  }
+}
